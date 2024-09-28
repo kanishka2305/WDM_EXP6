@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/01f3da6b-2a73-4c6c-b76c-d95e0bdbf419)## EX6: Information Retrieval Using Vector Space Model in Python
+## EX6: Information Retrieval Using Vector Space Model in Python
 ## DATE: 28:09:2024
 ### AIM: To implement Information Retrieval Using Vector Space Model in Python.
 ### Description: 
